@@ -19,5 +19,6 @@
   + Assessing consistency of data collection practices across datasets
   + Working to normalize datasets coming from different municipalities or local governments
   
-[1] USDA. Local Food Systems. https://www.nal.usda.gov/afsic/local-food-systems
-[2] USDA. 2010. Local Food Systems: Concepts, Impacts and Issues. https://www.ers.usda.gov/webdocs/publications/err97/7054_err97_1_.pdf
+   [1] USDA. Local Food Systems. https://www.nal.usda.gov/afsic/local-food-systems
+   
+   [2] USDA. 2010. Local Food Systems: Concepts, Impacts and Issues. https://www.ers.usda.gov/webdocs/publications/err97/7054_err97_1_.pdf
