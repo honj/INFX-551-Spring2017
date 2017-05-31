@@ -1,29 +1,26 @@
-﻿Site,Location,Area,Coordinates,State,Map Location,Zip Code
-Site name,Address,Area,"latitude,longitude",State,"Address
-Area, State Zip
-",Zip
+Site name,Location: Address,Area,"Coordinates: Latitude,longitude",State,"Map Location: Address, Area, State, Zip",Zip Code
 Richard Parker Memorial CG,15 Park Dr.,Fenway/Kenmore,"42.3444242,-71.0952061",MA,"15 Park Dr.
 Fenway/Kenmore, MA 2115
 ",2115
-Symphony Rd. Garden,56-72 Symphony Rd. ,Fenway/Kenmore,"42.342986,-71.0896194",MA,"56-72 Symphony Rd.&nbsp;
+Symphony Rd. Garden,56-72 Symphony Rd.Â ,Fenway/Kenmore,"42.342986,-71.0896194",MA,"56-72 Symphony Rd.&nbsp;
 Fenway/Kenmore, MA 2115
 ",2115
-Dartmouth Garden,29-31 Dartmouth St. ,South End,"42.343936,-71.0740299",MA,"29-31 Dartmouth St.&nbsp;
+Dartmouth Garden,29-31 Dartmouth St.Â ,South End,"42.343936,-71.0740299",MA,"29-31 Dartmouth St.&nbsp;
 South End, MA 2116
 ",2116
-Rutland Green,74-76 Rutland St. ,South End,"42.3405203,-71.076828",MA,"74-76 Rutland St.&nbsp;
+Rutland Green,74-76 Rutland St.Â ,South End,"42.3405203,-71.076828",MA,"74-76 Rutland St.&nbsp;
 South End, MA 2118
 ",2118
-Rutland Washington CG,1595 Washington St. ,South End,"42.3384748,-71.0745641",MA,"1595 Washington St.&nbsp;
+Rutland Washington CG,1595 Washington St.Â ,South End,"42.3384748,-71.0745641",MA,"1595 Washington St.&nbsp;
 South End, MA 2118
 ",2118
-West Springfield Garden,106-116 West Springfield St. ,South End,"42.338189,-71.078117",MA,"106-116 West Springfield St.&nbsp;
+West Springfield Garden,106-116 West Springfield St.Â ,South End,"42.338189,-71.078117",MA,"106-116 West Springfield St.&nbsp;
 South End, MA 2118
 ",2118
-Highland Ave. CG,10-14 Highland Ave. ,Roxbury,"42.328408,-71.09275",MA,"10-14 Highland Ave.&nbsp;
+Highland Ave. CG,10-14 Highland Ave.Â ,Roxbury,"42.328408,-71.09275",MA,"10-14 Highland Ave.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
-Columbia Point CG,255-265 Mt. Vernon St. ,Dorchester,"42.3187111,-71.0447587",MA,"255-265 Mt. Vernon St.&nbsp;
+Columbia Point CG,255-265 Mt. Vernon St.Â ,Dorchester,"42.3187111,-71.0447587",MA,"255-265 Mt. Vernon St.&nbsp;
 Dorchester, MA 2125
 (42.30786999970087, -71.06340000010977)",2125
 CNHS Garden,19 Shawmut St.,Chelsea,"42.3874956,-71.0341198",MA,"19 Shawmut St.
@@ -32,7 +29,7 @@ Chelsea, MA 2150
 Franklin Field BHA Garden,120 Westview Way,Mattapan or Dorchester,"42.2898866,-71.0837929",MA,"120 Westview Way
 Mattapan or Dorchester, MA 2124
 (42.29070108347975, -71.08395672883609)",2124
-Greenwich/Cumberland Garden,Greenwich Park and Cumberland St. ,Back Bay,"42.343526,-71.081082",MA,"Greenwich Park and Cumberland St.&nbsp;
+Greenwich/Cumberland Garden,Greenwich Park and Cumberland St.Â ,Back Bay,"42.343526,-71.081082",MA,"Greenwich Park and Cumberland St.&nbsp;
 Back Bay, MA 2116
 (42.347637975529494, -71.08003645467528)",2116
 "Julian, Judson, Dean Garden",48 Julian St.,Roxbury,"42.319361,-71.074807",MA,"48 Julian St.
@@ -41,13 +38,13 @@ Roxbury, MA 2125
 13th St. Circle Garden,100 13 St.,Charlestown,"42.375349,-71.0491204",MA,"100 13 St.
 Charlestown, MA 2129
 (42.377940396743554, -71.05188960219003)",2129
-Tobin Community Center Garden,1481 Tremont St. ,Roxbury,"42.3321374,-71.098142",MA,"1481 Tremont St.&nbsp;
+Tobin Community Center Garden,1481 Tremont St.Â ,Roxbury,"42.3321374,-71.098142",MA,"1481 Tremont St.&nbsp;
 Roxbury, MA 2120
 (42.33199876543995, -71.0980588681424)",2120
-Follen Garden,Follen St. and Braddock Park ,Back Bay,"42.344945,-71.079164",MA,"Follen St. and Braddock Park&nbsp;
+Follen Garden,Follen St. and Braddock ParkÂ ,Back Bay,"42.344945,-71.079164",MA,"Follen St. and Braddock Park&nbsp;
 Back Bay, MA 2116
 (42.347637975529494, -71.08003645467528)",2116
-Dorchester Education Complex Garden,9 Peacevale Rd. ,Dorchester,"42.2877741,-71.0766039",MA,"9 Peacevale Rd.&nbsp;
+Dorchester Education Complex Garden,9 Peacevale Rd.Â ,Dorchester,"42.2877741,-71.0766039",MA,"9 Peacevale Rd.&nbsp;
 Dorchester, MA 2124
 (42.30786999970087, -71.06340000010977)",2124
 Nonquit Green,5 Nonquit St.,Dorchester,"42.318092,-71.0683433",MA,"5 Nonquit St.
@@ -56,13 +53,13 @@ Dorchester, MA 2125
 Farnsworth House Garden,10 Child St.,Jamaica Plain,"42.30688,-71.114702",MA,"10 Child St.
 Jamaica Plain, MA 2130
 (42.30672781641664, -71.11466934602362)",2130
-60 Paul Gore St. Garden,60 Paul Gore St. ,Jamaica Plain,"42.3196486,-71.1082219",MA,"60 Paul Gore St.&nbsp;
+60 Paul Gore St. Garden,60 Paul Gore St.Â ,Jamaica Plain,"42.3196486,-71.1082219",MA,"60 Paul Gore St.&nbsp;
 Jamaica Plain, MA 2130
 (42.321240000226, -71.11032000006782)",2130
 Somerville Community Growing Center,22 Vinal Ave.,Somerville,"42.3831384,-71.0978583",MA,"22 Vinal Ave.
 Somerville, MA 2143
 (42.383317049328824, -71.09778283155575)",2143
-Esperanza Garden/Garden of Hope ,45 Magnolia St.,Dorchester,"42.3173187,-71.0705589",MA,"45 Magnolia St.
+Esperanza Garden/Garden of HopeÂ ,45 Magnolia St.,Dorchester,"42.3173187,-71.0705589",MA,"45 Magnolia St.
 Dorchester, MA 2125
 (42.31740083326493, -71.07049345091133)",2125
 Charles River CG,1450 Soldiers Field Rd.,Allston,"42.3611199,-71.1466786",MA,"1450 Soldiers Field Rd.
@@ -74,10 +71,10 @@ Jamaica Plain, MA 2130
 Starr Lane Park,17 Starr Ln.,Jamaica Plain,"42.3127446,-71.1133248",MA,"17 Starr Ln.
 Jamaica Plain, MA 2130
 (42.31278866766553, -71.11361594239537)",2130
-Rutland’s Haven CG,11 Rutland St.,South End,"42.3388746,-71.0748537",MA,"11 Rutland St.
+Rutlandâ€™s Haven CG,11 Rutland St.,South End,"42.3388746,-71.0748537",MA,"11 Rutland St.
 South End, MA 2118
 (42.338809854201074, -71.07466765730145)",2118
-Sargent St. Park,39-43 Sargent St. ,Dorchester,"42.314946,-71.073964",MA,"39-43 Sargent St.&nbsp;
+Sargent St. Park,39-43 Sargent St.Â ,Dorchester,"42.314946,-71.073964",MA,"39-43 Sargent St.&nbsp;
 Dorchester, MA 2125
 (42.30786999970087, -71.06340000010977)",2125
 Faulkner & Freeman Sts. Garden,35 Faulkner St.,Dorchester,"42.29941,-71.062174",MA,"35 Faulkner St.
@@ -98,13 +95,13 @@ Cambridge, MA 2138
 Gordon St. Park,6 Gordon St.,Cambridge,"42.4118196,-71.1279084",MA,"6 Gordon St.
 Cambridge, MA 2139
 (42.35806740921577, -71.11301122246901)",2139
-United Neighborhood of Lower Roxbury CG,Warwick St. and Windsor St. off Melnea Cass Blvd. ,Roxbury,"52.282316,-1.584927",MA,"Warwick St. and Windsor St. off Melnea Cass Blvd.&nbsp;
+United Neighborhood of Lower Roxbury CG,Warwick St. and Windsor St. off Melnea Cass Blvd.Â ,Roxbury,"52.282316,-1.584927",MA,"Warwick St. and Windsor St. off Melnea Cass Blvd.&nbsp;
 Roxbury, MA 2120
 (42.328730000289454, -71.0841100000763)",2120
 Hall/Boynton St. Garden,50 Hall St.,Jamaica Plain,"42.3048162,-71.1122781",MA,"50 Hall St.
 Jamaica Plain, MA 2130
 (42.30484823337537, -71.1126278850171)",2130
-The Food Project Lot #2,West Cottage St. and Brook Ave. ,Roxbury,"42.3207548,-71.0740661",MA,"West Cottage St. and Brook Ave.&nbsp;
+The Food Project Lot #2,West Cottage St. and Brook Ave.Â ,Roxbury,"42.3207548,-71.0740661",MA,"West Cottage St. and Brook Ave.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
 Moore St. Neighborhood Park,89 Moore St.,Cambridge,"42.3659638,-71.0940312",MA,"89 Moore St.
@@ -116,22 +113,22 @@ Roslindale, MA 2131
 Christian Herter Garden,1155 Soldiers Field Rd.,Allston,"42.3644362,-71.1362815",MA,"1155 Soldiers Field Rd.
 Allston, MA 2134
 (42.36633047520517, -71.13262930975533)",2134
-Imani Garden,2-98 Dr. Mary M. Beatty Circle ,Mattapan,"42.271847,-71.079354",MA,"2-98 Dr. Mary M. Beatty Circle&nbsp;
+Imani Garden,2-98 Dr. Mary M. Beatty CircleÂ ,Mattapan,"42.271847,-71.079354",MA,"2-98 Dr. Mary M. Beatty Circle&nbsp;
 Mattapan, MA 2126
 (42.267260000248996, -71.09459999998984)",2126
 Squirrel Brand CG,236 Broadway,Cambridge,"42.367349,-71.096763",MA,"236 Broadway
 Cambridge, MA 2139
 (42.366811521194165, -71.09472238341374)",2139
-Clayborne St. Garden,42 Claybourne St. ,Dorchester,"42.2982196,-71.071856",MA,"42 Claybourne St.&nbsp;
+Clayborne St. Garden,42 Claybourne St.Â ,Dorchester,"42.2982196,-71.071856",MA,"42 Claybourne St.&nbsp;
 Dorchester, MA 2124
 (42.29822922323973, -71.0717986648869)",2124
-Waldren Rd. Garden,7 Waldren Rd. ,Roxbury,"42.3157245,-71.0952333",MA,"7 Waldren Rd.&nbsp;
+Waldren Rd. Garden,7 Waldren Rd.Â ,Roxbury,"42.3157245,-71.0952333",MA,"7 Waldren Rd.&nbsp;
 Roxbury, MA 2119
 (42.31563110450668, -71.0951180851066)",2119
-Nonquit St. Garden,30 Nonquit St. ,Dorchester,"42.3172367,-71.0687479",MA,"30 Nonquit St.&nbsp;
+Nonquit St. Garden,30 Nonquit St.Â ,Dorchester,"42.3172367,-71.0687479",MA,"30 Nonquit St.&nbsp;
 Dorchester, MA 2125
 (42.317348809582654, -71.06868701066549)",2125
-Northampton St. CG,75 Northampton St. ,South End,"42.335108,-71.076151",MA,"75 Northampton St.&nbsp;
+Northampton St. CG,75 Northampton St.Â ,South End,"42.335108,-71.076151",MA,"75 Northampton St.&nbsp;
 South End, MA 2118
 (42.33493055525548, -71.07633124791454)",2118
 Philbrick School Garden,40 Philbrick St.,Roslindale,"42.2853934,-71.1179247",MA,"40 Philbrick St.
@@ -143,10 +140,10 @@ South End, MA 2118
 Peters Park CG,1277 Washington St. ,South End,"42.3422691,-71.0677441",MA,"1277 Washington St.
 South End, MA 2118
 (42.34233965835999, -71.06784213546332)",2118
-Haley Elementary School,570 American Legion Highway ,Roslindale,"42.286377,-71.107826",MA,"570 American Legion Highway&nbsp;
+Haley Elementary School,570 American Legion HighwayÂ ,Roslindale,"42.286377,-71.107826",MA,"570 American Legion Highway&nbsp;
 Roslindale, MA 2131
 (42.286629999574984, -71.13135999996388)",2131
-Jardin de la Amistad,403-405 Dudley St. ,Roxbury,"42.325719,-71.075424",MA,"403-405 Dudley St.&nbsp;
+Jardin de la Amistad,403-405 Dudley St.Â ,Roxbury,"42.325719,-71.075424",MA,"403-405 Dudley St.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
 Mt. Calvary Holy Church,347 Blue Hill Ave.,Roxbury,"42.3123872,-71.0803561",MA,"347 Blue Hill Ave.
@@ -155,10 +152,10 @@ Roxbury, MA 2121
 Mission Hill CG,746 Parker St.,Jamaica Plain,"42.3302954,-71.0980225",MA,"746 Parker St.
 Jamaica Plain, MA 2130
 (42.32579057883232, -71.10017602733316)",2130
-Leyland St. CG Ext,20 Leyland St. ,Dorchester,"42.320589,-71.070316",MA,"20 Leyland St.&nbsp;
+Leyland St. CG Ext,20 Leyland St.Â ,Dorchester,"42.320589,-71.070316",MA,"20 Leyland St.&nbsp;
 Dorchester, MA 2125
 (42.32048744346491, -71.07046766828353)",2125
-Wakullah St. CG,Wakullah St. and Hewes St. ,Roxbury,"42.322115,-71.086491",MA,"Wakullah St. and Hewes St.&nbsp;
+Wakullah St. CG,Wakullah St. and Hewes St.Â ,Roxbury,"42.322115,-71.086491",MA,"Wakullah St. and Hewes St.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
 Brookside CG,32 Merriam St.,Jamaica Plain,"42.3136889,-71.104195",MA,"32 Merriam St.
@@ -194,13 +191,13 @@ Somerville, MA 2144
 The Learning Garden at City Natives,30 Edgewater Dr.,Mattapan,"42.266037,-71.09544",MA,"30 Edgewater Dr.
 Mattapan, MA 2126
 (42.26617738611549, -71.09557673934154)",2126
-Lawn St. Garden,59-63 Lawn St. ,Roxbury,"42.327381,-71.106002",MA,"59-63 Lawn St.&nbsp;
+Lawn St. Garden,59-63 Lawn St.Â ,Roxbury,"42.327381,-71.106002",MA,"59-63 Lawn St.&nbsp;
 Roxbury, MA 2120
 (42.328730000289454, -71.0841100000763)",2120
 Savin/Maywood St. Garden,54-60 Savin St.,Roxbury,"42.316154,-71.079365",MA,"54-60 Savin St.
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
-Bessie Barnes Garden,25-29 Warwick St. ,Roxbury,"42.3361098,-71.0841995",MA,"25-29 Warwick St.&nbsp;
+Bessie Barnes Garden,25-29 Warwick St.Â ,Roxbury,"42.3361098,-71.0841995",MA,"25-29 Warwick St.&nbsp;
 Roxbury, MA 2120
 (42.328730000289454, -71.0841100000763)",2120
 Warren & Clarendon Sts. Garden,20 Clarendon St.,South End,"42.3450185,-71.0724421",MA,"20 Clarendon St.
@@ -218,34 +215,34 @@ Dorchester, MA 2125
 Osgood Garden,11 Osgood St.,Somerville,"42.383771,-71.102461",MA,"11 Osgood St.
 Somerville, MA 2143
 (42.383592870260884, -71.1025644715092)",2143
-St. Joseph's Garden,Regent St. and Hulbert St. ,Roxbury,"42.3230185,-71.0878407",MA,"Regent St. and Hulbert St.&nbsp;
+St. Joseph's Garden,Regent St. and Hulbert St.Â ,Roxbury,"42.3230185,-71.0878407",MA,"Regent St. and Hulbert St.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
-Spencer St. Garden,96 Spencer St. ,Dorchester,"42.293765,-71.075835",MA,"96 Spencer St.&nbsp;
+Spencer St. Garden,96 Spencer St.Â ,Dorchester,"42.293765,-71.075835",MA,"96 Spencer St.&nbsp;
 Dorchester, MA 2124
 (42.29371462665267, -71.07602547842458)",2124
-Clark/Cooper CG,500 Walk Hill St. ,Mattapan,"42.284624,-71.1010972",MA,"500 Walk Hill St.&nbsp;
+Clark/Cooper CG,500 Walk Hill St.Â ,Mattapan,"42.284624,-71.1010972",MA,"500 Walk Hill St.&nbsp;
 Mattapan, MA 2131
 (42.267260000248996, -71.09459999998984)",2131
 McBride Garden,60 Boynton St.,Jamaica Plain,"42.3055471,-71.1113384",MA,"60 Boynton St.
 Jamaica Plain, MA 2130
 (42.305435778729056, -71.11219319954948)",2130
-Warren Gardens CG,Warren St. and Walnut Ave. ,Roxbury,"42.3240807,-71.0827044",MA,"Warren St. and Walnut Ave.&nbsp;
+Warren Gardens CG,Warren St. and Walnut Ave.Â ,Roxbury,"42.3240807,-71.0827044",MA,"Warren St. and Walnut Ave.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
 Charlestown Sprouts Garden,70 Terminal St.,Charlestown,"42.3820535,-71.0577314",MA,"70 Terminal St.
 Charlestown, MA 2129
 (42.38132277982703, -71.05394838220154)",2129
-Harcourt/West Canton Garden,Harcourt St. and West Canton St. ,Back Bay,"42.345687,-71.078238",MA,"Harcourt St. and West Canton St.&nbsp;
+Harcourt/West Canton Garden,Harcourt St. and West Canton St.Â ,Back Bay,"42.345687,-71.078238",MA,"Harcourt St. and West Canton St.&nbsp;
 Back Bay, MA 2116
 (42.347637975529494, -71.08003645467528)",2116
-Phyllis Wheatley/Warren Place,Pevear Pl. and Warren Pl. ,Roxbury,"42.327868,-71.0815048",MA,"Pevear Pl. and Warren Pl.&nbsp;
+Phyllis Wheatley/Warren Place,Pevear Pl. and Warren Pl.Â ,Roxbury,"42.327868,-71.0815048",MA,"Pevear Pl. and Warren Pl.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
 Chelsea CG,34 Hawthorn St.,Chelsea,"42.3885883,-71.0370123",MA,"34 Hawthorn St.
 Chelsea, MA 2150
 (42.38854813464235, -71.03698590913268)",2150
-Eagle Hill Memorial Park Garden,340 Border St. ,East Boston,"42.3793907,-71.0400874",MA,"340 Border St.&nbsp;
+Eagle Hill Memorial Park Garden,340 Border St.Â ,East Boston,"42.3793907,-71.0400874",MA,"340 Border St.&nbsp;
 East Boston, MA 2128
 (42.378460000328914, -71.02881000038104)",2128
 Agassiz Community & School Garden,80 South St.,Jamaica Plain,"42.307058,-71.1149609",MA,"80 South St.
@@ -254,13 +251,13 @@ Jamaica Plain, MA 2130
 Don McMath Park CG,150 Sherman St.,Cambridge,"42.3913372,-71.1327436",MA,"150 Sherman St.
 Cambridge, MA 2140
 (42.39132905010158, -71.13265945318207)",2140
-Audrey Jacobs Memorial CG,32 Bullard St. ,Dorchester,"42.302,-71.073579",MA,"32 Bullard St.&nbsp;
+Audrey Jacobs Memorial CG,32 Bullard St.Â ,Dorchester,"42.302,-71.073579",MA,"32 Bullard St.&nbsp;
 Dorchester, MA 2121
 (42.302150267287516, -71.07367824792811)",2121
 Green St. Neighborhood Park,Green St. and Bay St.,Cambridge,"42.368197,-71.110674",MA,"Green St. and Bay St.
 Cambridge, MA 2138
 (42.3683133889831, -71.11073031553525)",2138
-Barry St. Garden,39 Barry St. ,Dorchester,"42.3088727,-71.06854",MA,"39 Barry St.&nbsp;
+Barry St. Garden,39 Barry St.Â ,Dorchester,"42.3088727,-71.06854",MA,"39 Barry St.&nbsp;
 Dorchester, MA 2125
 (42.308778270643415, -71.06839023439585)",2125
 8th St. Circle Garden,39 Constitution Wharf,Charlestown,"42.3748799,-71.0514326",MA,"39 Constitution Wharf
@@ -275,13 +272,13 @@ Roxbury, MA 2120
 ReVision House Urban Farm #2,35-45 Fabyan St.,Dorchester,"42.290139,-71.091001",MA,"35-45 Fabyan St.
 Dorchester, MA 2124
 (42.30786999970087, -71.06340000010977)",2124
-Hawthorne Youth & Community Center Garden,9 Fulda St. ,Roxbury,"42.3233075,-71.0923386",MA,"9 Fulda St.&nbsp;
+Hawthorne Youth & Community Center Garden,9 Fulda St.Â ,Roxbury,"42.3233075,-71.0923386",MA,"9 Fulda St.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
 Mystic CG,530 Mystic Ave.,Somerville,"42.4164555,-71.1295841",MA,"530 Mystic Ave.
 Somerville, MA 2155
 (42.40048931534559, -71.09875019663018)",2155
-The Food Project Lot #1,Langdon St. and Geeorge St. ,Roxbury,"42.3246539,-71.0716542",MA,"Langdon St. and Geeorge St.&nbsp;
+The Food Project Lot #1,Langdon St. and Geeorge St.Â ,Roxbury,"42.3246539,-71.0716542",MA,"Langdon St. and Geeorge St.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
 Field of Dreams Gardens,30 Elmer St.,Cambridge,"42.3661438,-71.11419",MA,"30 Elmer St.
@@ -296,34 +293,34 @@ Roxbury, MA 2120
 Unity Towers Garden,371 Shawmut Ave.,South End,"42.341258,-71.072463",MA,"371 Shawmut Ave.
 South End, MA 2118
 (42.34112688403735, -71.07235624454506)",2118
-Anson St. Garden,17 Anson St. ,Jamaica Plain,"42.302818,-71.113564",MA,"17 Anson St.&nbsp;
+Anson St. Garden,17 Anson St.Â ,Jamaica Plain,"42.302818,-71.113564",MA,"17 Anson St.&nbsp;
 Jamaica Plain, MA 2130
 (42.30296865033415, -71.11356317992755)",2130
-Kennedy Playground CG,32 Edgewater Drive ,Mattapan,"42.2654004,-71.0962497",MA,"32 Edgewater Drive&nbsp;
+Kennedy Playground CG,32 Edgewater DriveÂ ,Mattapan,"42.2654004,-71.0962497",MA,"32 Edgewater Drive&nbsp;
 Mattapan, MA 2126
 (42.267260000248996, -71.09459999998984)",2126
-Worcester St. Garden,114 Worcester St. ,South End,"42.2543173,-71.8244381",MA,"114 Worcester St.&nbsp;
+Worcester St. Garden,114 Worcester St.Â ,South End,"42.2543173,-71.8244381",MA,"114 Worcester St.&nbsp;
 South End, MA 2118
 (42.34042541285447, -71.07920907840833)",2118
-Bullard St. Garden,33 Bullard St. ,Dorchester,"42.302295,-71.073915",MA,"33 Bullard St.&nbsp;
+Bullard St. Garden,33 Bullard St.Â ,Dorchester,"42.302295,-71.073915",MA,"33 Bullard St.&nbsp;
 Dorchester, MA 2121
 (42.30215926050778, -71.07381314623251)",2121
 Round Hill St. Garden,56 Day St.,Jamaica Plain,"42.3250173,-71.1075822",MA,"56 Day St.
 Jamaica Plain, MA 2130
 (42.325073985814356, -71.10775355961829)",2130
-Leland St. Herb Garden,2-6 Leland St. ,Jamaica Plain,"42.2967749,-71.1121749",MA,"2-6 Leland St.&nbsp;
+Leland St. Herb Garden,2-6 Leland St.Â ,Jamaica Plain,"42.2967749,-71.1121749",MA,"2-6 Leland St.&nbsp;
 Jamaica Plain, MA 2130
 (42.321240000226, -71.11032000006782)",2130
 Lucerne/Balsam St. Garden,74 Lucerne St.,Mattapan,"42.287048,-71.088192",MA,"74 Lucerne St.
 Mattapan, MA 2124
 (42.287086623296716, -71.08840014954774)",2124
-Leyland St. Garden,6-18 Leyland St. ,Roxbury,"42.320672,-71.070395",MA,"6-18 Leyland St.&nbsp;
+Leyland St. Garden,6-18 Leyland St.Â ,Roxbury,"42.320672,-71.070395",MA,"6-18 Leyland St.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
-Magazine St. Garden,25-35 Magazine St. ,Roxbury,"42.325648,-71.072977",MA,"25-35 Magazine St.&nbsp;
+Magazine St. Garden,25-35 Magazine St.Â ,Roxbury,"42.325648,-71.072977",MA,"25-35 Magazine St.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
-Harvard/Wales Sts. CG,Harvard St. and Freeman St. ,Dorchester,,MA,"Harvard St. and Freeman St.&nbsp;
+Harvard/Wales Sts. CG,Harvard St. and Freeman St.Â ,Dorchester,,MA,"Harvard St. and Freeman St.&nbsp;
 Dorchester, MA 2122
 (42.298813782558796, -71.0471122751826)",2122
 South St. CG,271 South St.,Jamaica Plain,"42.3013959,-71.116206",MA,"271 South St.
@@ -332,7 +329,7 @@ Jamaica Plain, MA 2130
 Bikeway Garden,Somerville Community Path,Somerville,"42.3947318,-71.1138929",MA,"Somerville Community Path
 Somerville, MA 2144
 (42.38667999988223, -71.09825999969905)",2144
-Joe Ciampa Garden,Marginal St. at Cottage St. ,East Boston,"42.3657251,-71.0368153",MA,"Marginal St. at Cottage St.&nbsp;
+Joe Ciampa Garden,Marginal St. at Cottage St.Â ,East Boston,"42.3657251,-71.0368153",MA,"Marginal St. at Cottage St.&nbsp;
 East Boston, MA 2128
 (42.378460000328914, -71.02881000038104)",2128
 Dearborn School Garden,35 Greenville St.,Roxbury,"42.326453,-71.080922",MA,"35 Greenville St.
@@ -344,25 +341,25 @@ South End, MA 2118
 Blackwood/Claremont Garden,1 Claremont St.,Back Bay,"42.342612,-71.081481",MA,"1 Claremont St.
 Back Bay, MA 2118
 (42.34294351453656, -71.08135845805833)",2118
-Leyland St. Park,6-18 Leyland St. ,Dorchester,"42.320672,-71.070395",MA,"6-18 Leyland St.&nbsp;
+Leyland St. Park,6-18 Leyland St.Â ,Dorchester,"42.320672,-71.070395",MA,"6-18 Leyland St.&nbsp;
 Dorchester, MA 2125
 (42.30786999970087, -71.06340000010977)",2125
-Granada Park Garden,23 Granada Park ,Roxbury,"42.3127342,-71.0987517",MA,"23 Granada Park&nbsp;
+Granada Park Garden,23 Granada ParkÂ ,Roxbury,"42.3127342,-71.0987517",MA,"23 Granada Park&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
 Conley School Garden,16 Dale St.,South Boston,"42.2741479,-71.127252",MA,"16 Dale St.
 South Boston, MA 2131
 (42.2739924945501, -71.12736777307731)",2131
-Forbes St. Garden,19-31 Forbes St. ,Jamaica Plain,"42.321469,-71.107533",MA,"19-31 Forbes St.&nbsp;
+Forbes St. Garden,19-31 Forbes St.Â ,Jamaica Plain,"42.321469,-71.107533",MA,"19-31 Forbes St.&nbsp;
 Jamaica Plain, MA 2130
 (42.321240000226, -71.11032000006782)",2130
 Simplex CG,6 Emily St.,Cambridge,"42.3601708,-71.1049671",MA,"6 Emily St.
 Cambridge, MA 2139
 (42.359397499143874, -71.10375100248515)",2139
-Quincy/Coleman Garden,Quincy St. and Coleman St. ,Dorchester,"42.3080693,-71.0664372",MA,"Quincy St. and Coleman St.&nbsp;
+Quincy/Coleman Garden,Quincy St. and Coleman St.Â ,Dorchester,"42.3080693,-71.0664372",MA,"Quincy St. and Coleman St.&nbsp;
 Dorchester, MA 2125
 (42.32376097565157, -71.05525113954775)",2125
-Chestnut Hill Reservoir Garden,Chestnut Hill Driveway ,Allston,"42.3383955,-71.1569408",MA,"Chestnut Hill Driveway&nbsp;
+Chestnut Hill Reservoir Garden,Chestnut Hill DrivewayÂ ,Allston,"42.3383955,-71.1569408",MA,"Chestnut Hill Driveway&nbsp;
 Allston, MA 2135
 (42.353229999664904, -71.13213999996088)",2135
 Glen Garden,5 Palmer Ave.,Somerville,"42.382535,-71.085938",MA,"5 Palmer Ave.
@@ -371,13 +368,13 @@ Somerville, MA 2145
 Jackson Mann School Garden,500 Cambridge St.,Allston,"42.3532753,-71.1377981",MA,"500 Cambridge St.
 Allston, MA 2134
 (42.353068632256054, -71.13854338564968)",2134
-Edward L. Cooper Memorial Garden,24-26 Linwood St. ,Roxbury,"42.327867,-71.093726",MA,"24-26 Linwood St.&nbsp;
+Edward L. Cooper Memorial Garden,24-26 Linwood St.Â ,Roxbury,"42.327867,-71.093726",MA,"24-26 Linwood St.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
 Hennigan School Garden,15 Walden St.,Jamaica Plain,"42.3254146,-71.1044496",MA,"15 Walden St.
 Jamaica Plain, MA 2130
 (42.32540673496521, -71.10446204099105)",2130
-Margaret Wright Memorial Garden,61-67 Fort Ave. ,Roxbury,"42.3263729,-71.09551",MA,"61-67 Fort Ave.&nbsp;
+Margaret Wright Memorial Garden,61-67 Fort Ave.Â ,Roxbury,"42.3263729,-71.09551",MA,"61-67 Fort Ave.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
 Oakdale St. CG,6 Oakdale St.,Jamaica Plain,"42.313218,-71.106781",MA,"6 Oakdale St.
@@ -392,7 +389,7 @@ East Boston, MA 2128
 West Prescott School Garden,41 School St.,Charlestown,"42.3778308,-71.064333",MA,"41 School St.
 Charlestown, MA 2129
 (42.3777659866045, -71.06432224081314)",2129
-Boston Evening Academy Garden,17 Kearsarge Ave. ,Roxbury,"42.3269503,-71.0822508",MA,"17 Kearsarge Ave.&nbsp;
+Boston Evening Academy Garden,17 Kearsarge Ave.Â ,Roxbury,"42.3269503,-71.0822508",MA,"17 Kearsarge Ave.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
 Clementine Park,163 Centre St.,Dorchester,"42.2920718,-71.0654619",MA,"163 Centre St.
@@ -401,19 +398,19 @@ Dorchester, MA 2124
 Bay Village CG,4 Melrose St,Bay Village,"42.349636,-71.066716",MA,"4 Melrose St
 Bay Village, MA 2116
 (42.349490578909865, -71.06732004118095)",2116
-Monadnock St. Garden,21-23 Monadnock St. ,Dorchester,"42.3168708,-71.06833",MA,"21-23 Monadnock St.&nbsp;
+Monadnock St. Garden,21-23 Monadnock St.Â ,Dorchester,"42.3168708,-71.06833",MA,"21-23 Monadnock St.&nbsp;
 Dorchester, MA 2125
 (42.30786999970087, -71.06340000010977)",2125
 Saranac/New Castle Garden,1-99 Watson St.,Boston,"42.3399349,-71.0842108",MA,"1-99 Watson St.
 Boston, MA 2118
 (42.35862999957499, -71.05669999960514)",2118
-Foster's Nook CG,344 Athens St. ,South Boston,"42.337025,-71.0469409",MA,"344 Athens St.&nbsp;
+Foster's Nook CG,344 Athens St.Â ,South Boston,"42.337025,-71.0469409",MA,"344 Athens St.&nbsp;
 South Boston, MA 2127
 (42.337950000092576, -71.04948000030163)",2127
 Kendall & Lenox Sts. Garden,100 Kendall St.,Roxbury,"42.3374203,-71.082921",MA,"100 Kendall St.
 Roxbury, MA 2120
 (42.328730000289454, -71.0841100000763)",2120
-Garden at the Rockies,144-150 Marginal St. ,East Boston,"42.3653775,-71.0360501",MA,"144-150 Marginal St.&nbsp;
+Garden at the Rockies,144-150 Marginal St.Â ,East Boston,"42.3653775,-71.0360501",MA,"144-150 Marginal St.&nbsp;
 East Boston, MA 2128
 (42.378460000328914, -71.02881000038104)",2128
 Highland Park 400 Garden,26-34 Linwood St.,Roxbury,"42.327806,-71.09396",MA,"26-34 Linwood St.
@@ -434,22 +431,22 @@ Roxbury, MA 2121
 Commonwealth Tenants Association CG,35 Fidelis Way,Allston,"42.345578,-71.1433738",MA,"35 Fidelis Way
 Allston, MA 2135
 (42.34593927238901, -71.14380609078314)",2135
-Bowditch Garden,90 Green St. ,Jamaica Plain,"42.311585,-71.109079",MA,"90 Green St.&nbsp;
+Bowditch Garden,90 Green St.Â ,Jamaica Plain,"42.311585,-71.109079",MA,"90 Green St.&nbsp;
 Jamaica Plain, MA 2130
 (42.31142227740958, -71.10917448842457)",2130
-Nightingale St/Generations of Hope,85-89 Nightingale St. ,Dorchester,"42.295059,-71.084814",MA,"85-89 Nightingale St.&nbsp;
+Nightingale St/Generations of Hope,85-89 Nightingale St.Â ,Dorchester,"42.295059,-71.084814",MA,"85-89 Nightingale St.&nbsp;
 Dorchester, MA 2124
 (42.30786999970087, -71.06340000010977)",2124
 Wellington Common,32 Wellington St.,South End,"42.341767,-71.082487",MA,"32 Wellington St.
 South End, MA 2118
 (42.34188231454198, -71.08234771229058)",2118
-Madison Park Village CG,55 Malcom X Blvd/New Dudley St. ,Roxbury,"42.3306429,-71.0876518",MA,"55 Malcom X Blvd/New Dudley St.&nbsp;
+Madison Park Village CG,55 Malcom X Blvd/New Dudley St.Â ,Roxbury,"42.3306429,-71.0876518",MA,"55 Malcom X Blvd/New Dudley St.&nbsp;
 Roxbury, MA 2120
 (42.33080266714097, -71.08861598683478)",2120
 Norton/Stonehurst Garden,101 Norton St.,Dorchester,"42.304708,-71.067165",MA,"101 Norton St.
 Dorchester, MA 2122
 (42.30477628761304, -71.06705923779248)",2122
-Torrey St. Park Garden,19 Torrey St. ,Dorchester,"42.2876189,-71.0722325",MA,"19 Torrey St.&nbsp;
+Torrey St. Park Garden,19 Torrey St.Â ,Dorchester,"42.2876189,-71.0722325",MA,"19 Torrey St.&nbsp;
 Dorchester, MA 2124
 (42.287509304650484, -71.0721583936986)",2124
 Arcola St. Park,2 Arcola St.,Jamaica Plain,"42.324458,-71.1086171",MA,"2 Arcola St.
@@ -458,40 +455,40 @@ Jamaica Plain, MA 2130
 Longfellow House Garden,885 South St.,Roslindale,"42.289057,-71.134609",MA,"885 South St.
 Roslindale, MA 2131
 (42.288840301253856, -71.1343195323638)",2131
-Fannie Lou Hamer CG,103-109 Greenbriar St. ,Dorchester,"42.296273,-71.0706514",MA,"103-109 Greenbriar St.&nbsp;
+Fannie Lou Hamer CG,103-109 Greenbriar St.Â ,Dorchester,"42.296273,-71.0706514",MA,"103-109 Greenbriar St.&nbsp;
 Dorchester, MA 2124
 (42.30786999970087, -71.06340000010977)",2124
-Nira Ave. Garden,10 Nira Ave. ,Jamaica Plain,"42.3252119,-71.1085897",MA,"10 Nira Ave.&nbsp;
+Nira Ave. Garden,10 Nira Ave.Â ,Jamaica Plain,"42.3252119,-71.1085897",MA,"10 Nira Ave.&nbsp;
 Jamaica Plain, MA 2130
 (42.321240000226, -71.11032000006782)",2130
-Lydon Way Garden,57 Msgr. Patrick J. Lydon Way ,Dorchester,"42.288716,-71.060039",MA,"57 Msgr. Patrick J. Lydon Way&nbsp;
+Lydon Way Garden,57 Msgr. Patrick J. Lydon WayÂ ,Dorchester,"42.288716,-71.060039",MA,"57 Msgr. Patrick J. Lydon Way&nbsp;
 Dorchester, MA 2124
 (42.30786999970087, -71.06340000010977)",2124
-Egleston CG,2040 Columbus Ave. ,Roxbury,"42.3141484,-71.0961774",MA,"2040 Columbus Ave.&nbsp;
+Egleston CG,2040 Columbus Ave.Â ,Roxbury,"42.3141484,-71.0961774",MA,"2040 Columbus Ave.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
-Greenwood CG,140-142 Greenwood St. ,Roxbury,"42.2977606,-71.0796506",MA,"140-142 Greenwood St.&nbsp;
+Greenwood CG,140-142 Greenwood St.Â ,Roxbury,"42.2977606,-71.0796506",MA,"140-142 Greenwood St.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
-29 Josephine St. Garden,29 Josephine St. ,Dorchester,"42.3005305,-71.0641423",MA,"29 Josephine St.&nbsp;
+29 Josephine St. Garden,29 Josephine St.Â ,Dorchester,"42.3005305,-71.0641423",MA,"29 Josephine St.&nbsp;
 Dorchester, MA 2122
 (42.30069336560001, -71.06422637340017)",2122
 Berkeley St. Garden,50 Berkeley St.,South End,"42.3462692,-71.070626",MA,"50 Berkeley St.
 South End, MA 2118
 (42.344520292895055, -71.06744384178675)",2118
-Shore Plaza East Garden,520 Border St. ,East Boston,"42.3817738,-71.0402873",MA,"520 Border St.&nbsp;
+Shore Plaza East Garden,520 Border St.Â ,East Boston,"42.3817738,-71.0402873",MA,"520 Border St.&nbsp;
 East Boston, MA 2128
 (42.378460000328914, -71.02881000038104)",2128
-Nightingale Garden,512 Park St. ,Dorchester,"42.2952616,-71.0733826",MA,"512 Park St.&nbsp;
+Nightingale Garden,512 Park St.Â ,Dorchester,"42.2952616,-71.0733826",MA,"512 Park St.&nbsp;
 Dorchester, MA 2124
 (42.29525246732277, -71.07340845131932)",2124
 Sacramento St. Garden,21 Sacramento St.,Cambridge,"42.382778,-71.11757",MA,"21 Sacramento St.
 Cambridge, MA 2138
 (42.38259462280837, -71.11757415617825)",2138
-Avon St. Garden,117 Summer St. ,Somerville,"42.385599,-71.102829",MA,"117 Summer St.&nbsp;
+Avon St. Garden,117 Summer St.Â ,Somerville,"42.385599,-71.102829",MA,"117 Summer St.&nbsp;
 Somerville, MA 2143
 (42.38531956855718, -71.10296916642238)",2143
-Erie/Ellington Sts. Park,72-78 Erie St. ,Dorchester,"42.301924,-71.081331",MA,"72-78 Erie St.&nbsp;
+Erie/Ellington Sts. Park,72-78 Erie St.Â ,Dorchester,"42.301924,-71.081331",MA,"72-78 Erie St.&nbsp;
 Dorchester, MA 2121
 (42.30786999970087, -71.06340000010977)",2121
 Harrison Urban Garden,700 Harrison Ave.,Roxbury,"42.3385312,-71.0706583",MA,"700 Harrison Ave.
@@ -500,7 +497,7 @@ Roxbury, MA 2118
 South St. BHA CG,119 South St.,Jamaica Plain,"42.305404,-71.115607",MA,"119 South St.
 Jamaica Plain, MA 2130
 (42.306062318114925, -71.11499310195416)",2130
-The Food Project Lot #3,18 Albion St. ,Roxbury,"42.322275,-71.071261",MA,"18 Albion St.&nbsp;
+The Food Project Lot #3,18 Albion St.Â ,Roxbury,"42.322275,-71.071261",MA,"18 Albion St.&nbsp;
 Roxbury, MA 2119
 (42.32213320277856, -71.07118712590693)",2119
 10 Josephine St. Garden,10 Josephine St.,Dorchester,"42.3005383,-71.0654838",MA,"10 Josephine St.
@@ -509,45 +506,45 @@ Dorchester, MA 2122
 Larz Anderson Gardens,25 Newton St.,Brookline,"42.311704,-71.134543",MA,"25 Newton St.
 Brookline, MA 2445
 (42.30947859293878, -71.13548391678643)",2445
-Winthrop St. Garden,25 Winthrop St. ,Roxbury,"42.326125,-71.081879",MA,"25 Winthrop St.&nbsp;
+Winthrop St. Garden,25 Winthrop St.Â ,Roxbury,"42.326125,-71.081879",MA,"25 Winthrop St.&nbsp;
 Roxbury, MA 2119
 (42.32629706377418, -71.08181711229327)",2119
-Centre Place Garden,66 Centre St. ,Roxbury,"42.32884,-71.0943999",MA,"66 Centre St.&nbsp;
+Centre Place Garden,66 Centre St.Â ,Roxbury,"42.32884,-71.0943999",MA,"66 Centre St.&nbsp;
 Roxbury, MA 2119
 (42.32903999596357, -71.0945335257876)",2119
 Alvah Kittredge Sq. Park,4 Alvah Kittredge Park,Roxbury,"42.328218,-71.092833",MA,"4 Alvah Kittredge Park
 Roxbury, MA 2119
 (42.32816765359513, -71.09262696308548)",2119
-Walden St. CG,13-15 Walden St. ,Jamaica Plain,"42.3253814,-71.1046729",MA,"13-15 Walden St.&nbsp;
+Walden St. CG,13-15 Walden St.Â ,Jamaica Plain,"42.3253814,-71.1046729",MA,"13-15 Walden St.&nbsp;
 Jamaica Plain, MA 2130
 (42.321240000226, -71.11032000006782)",2130
 Southwest Corridor Community Farm,57 Lamartine St.,Jamaica Plain,"42.314158,-71.107307",MA,"57 Lamartine St.
 Jamaica Plain, MA 2130
 (42.31402131807425, -71.10722295962097)",2130
-Magnolia & Woodford Sts. Garden,Magnolia St. at Woodford St. ,Roxbury,"42.3183325,-71.0700031",MA,"Magnolia St. at Woodford St.&nbsp;
+Magnolia & Woodford Sts. Garden,Magnolia St. at Woodford St.Â ,Roxbury,"42.3183325,-71.0700031",MA,"Magnolia St. at Woodford St.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
-Our Garden,316-324 Meridian St. ,East Boston,"42.3777318,-71.0391571",MA,"316-324 Meridian St.&nbsp;
+Our Garden,316-324 Meridian St.Â ,East Boston,"42.3777318,-71.0391571",MA,"316-324 Meridian St.&nbsp;
 East Boston, MA 2128
 (42.378460000328914, -71.02881000038104)",2128
-Allan Crite Garden I,107-125 Cedar St. ,Roxbury,"42.327437,-71.094073",MA,"107-125 Cedar St.&nbsp;
+Allan Crite Garden I,107-125 Cedar St.Â ,Roxbury,"42.327437,-71.094073",MA,"107-125 Cedar St.&nbsp;
 Roxbury, MA 2119
 (42.328730000289454, -71.0841100000763)",2119
 Paul Gore/Beecher St. Garden,2 Beecher St.,Jamaica Plain,"42.3188105,-71.106628",MA,"2 Beecher St.
 Jamaica Plain, MA 2130
 (42.31874136848712, -71.10658301639171)",2130
-Wheatland Ave. Victory Garden,86 Wheatland Ave. ,Dorchester,"42.292662,-71.076132",MA,"86 Wheatland Ave.&nbsp;
+Wheatland Ave. Victory Garden,86 Wheatland Ave.Â ,Dorchester,"42.292662,-71.076132",MA,"86 Wheatland Ave.&nbsp;
 Dorchester, MA 2124
 (42.29281530462333, -71.07618735638988)",2124
 Lamartine/Hubbard Sts. Garden,206 Lamartine St.,Jamaica Plain,"42.3162008,-71.1053927",MA,"206 Lamartine St.
 Jamaica Plain, MA 2130
 (42.316208803556144, -71.10529637404848)",2130
-St Rose St. Garden,34-36 Saint Rose St. ,Jamaica Plain,"42.3046102,-71.1157968",MA,"34-36 Saint Rose St.&nbsp;
+St Rose St. Garden,34-36 Saint Rose St.Â ,Jamaica Plain,"42.3046102,-71.1157968",MA,"34-36 Saint Rose St.&nbsp;
 Jamaica Plain, MA 2130
 (42.321240000226, -71.11032000006782)",2130
-Minton Stable Garden,110-112 Williams St. ,Jamaica Plain,"42.304979,-71.105403",MA,"110-112 Williams St.&nbsp;
+Minton Stable Garden,110-112 Williams St.Â ,Jamaica Plain,"42.304979,-71.105403",MA,"110-112 Williams St.&nbsp;
 Jamaica Plain, MA 2130
 (42.321240000226, -71.11032000006782)",2130
-Penniman Rd. Garden,30 Penniman Rd. ,Allston,"42.3556407,-71.1364847",MA,"30 Penniman Rd.&nbsp;
+Penniman Rd. Garden,30 Penniman Rd.Â ,Allston,"42.3556407,-71.1364847",MA,"30 Penniman Rd.&nbsp;
 Allston, MA 2134
 (42.353229999664904, -71.13213999996088)",2134
