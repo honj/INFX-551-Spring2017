@@ -3,3 +3,4 @@
 #### Example
 CommunityGardens.NewYorkCity.Loc.NYCOpenData.2017-06-06.csv
 CommunityGardens.NewYorkCity.NA.NYCOpenData.2017-06-06.url
+CommunityGardens.WAstate.CropsOther.FCMill.2017-04-11.csv
