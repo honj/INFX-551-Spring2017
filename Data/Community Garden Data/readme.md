@@ -21,7 +21,7 @@
   * Contact information = Contact
   * Other information = Other
 ##### Data sources
-* As in ".url" files 
+* As in first line of ".url" files 
 * Examples:
   * Data.Seattle.Gov = DSG
   * Farming Concrete Mill = FCMill
