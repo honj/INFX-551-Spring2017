@@ -17,7 +17,9 @@
 #### Controlled vocabulary
 ##### Topical coverage
 * Community gardens = CG
-* 
+* Farmers' markets = FM
+* On-farm sales = OFS
+* Community-supported agriculture = CSA
 ##### Spatial coverage
 * City-level
   * City names
@@ -32,7 +34,7 @@
   * Abbreviation in caps
     * US
     * [...]
-##### Topic subsets
+##### Information Attributes
 * Abbreviations with initial capitals, no punctuation in between
   * Example: LocOther
 * Topic subset abbreviations
@@ -46,6 +48,8 @@
 * Examples:
   * Data.Seattle.Gov = DSG
   * Farming Concrete Mill = FCMill
+  * USDA
+  * [...]
 #### File name examples
 * CG.NewYorkCity.Loc.NYCOpenData.2017-06-06.csv
 * CG.NewYorkCity.NA.NYCOpenData.2017-06-06.url
