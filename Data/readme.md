@@ -47,7 +47,7 @@
   * Data.Seattle.Gov = DSG
   * Farming Concrete Mill = FCMill
 #### File name examples
-* CommunityGardens.NewYorkCity.Loc.NYCOpenData.2017-06-06.csv
-* CommunityGardens.NewYorkCity.NA.NYCOpenData.2017-06-06.url
-* CommunityGardens.WAstate.CropsOther.FCMill.2017-04-11.csv
-* CommunityGardens.WAstate.NA.FCMill.2017-04-11.url
+* CG.NewYorkCity.Loc.NYCOpenData.2017-06-06.csv
+* CG.NewYorkCity.NA.NYCOpenData.2017-06-06.url
+* CG.WAstate.CropsOther.FCMill.2017-04-11.csv
+* CG.WAstate.NA.FCMill.2017-04-11.url
