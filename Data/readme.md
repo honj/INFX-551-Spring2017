@@ -13,7 +13,7 @@
 8) [Farmers Markets 2015](https://data.cityofchicago.org/Environment-Sustainable-Development/Farmers-Markets-2015/x5xx-pszi) from City of Chicago
 9) [Urban Farms Locations](https://data.cityofchicago.org/Environment-Sustainable-Development/Urban-Farms/2a55-dhk8) from City of Chicago
 ## File-naming protocol
-*topical coverage* **(dot)** *spatial coverage* **(dot)** *topic subset(s)* OR *NA* if not applicable **(dot)** *data source* OR *NA* if not applicable **(dot)** *date uploaded in YYYY-MM-DD* **(dot)** *file extension or ".url" if text file including url(s) of data source*
+*topical coverage* **(dot)** *spatial coverage* **(dot)** *information attribute(s)* OR *NA* if not applicable **(dot)** *data source* OR *NA* if not applicable **(dot)** *date uploaded in YYYY-MM-DD* **(dot)** *file extension or ".url" if text file including url(s) of data source*
 #### Controlled vocabulary
 ##### Topical coverage
 * Community gardens = CG
