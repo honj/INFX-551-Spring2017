@@ -2,7 +2,7 @@
 *topical coverage* **(dot)** *spatial coverage* **(dot)** *topic subset(s)* OR *NA* if not applicable **(dot)** *data source* OR *NA* if not applicable **(dot)** *date uploaded in YYYY-MM-DD* **(dot)** *file extension or ".url" if text file including url(s) of data source*
 #### Controlled vocabulary
 ##### Topical coverage
-* Community gardens = CommunityGardens
+* Community gardens = CG
 ##### Spatial coverage
 * City names
   * Seattle = Seattle
