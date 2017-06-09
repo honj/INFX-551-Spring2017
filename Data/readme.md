@@ -19,13 +19,19 @@
 * Community gardens = CG
 * 
 ##### Spatial coverage
-* City names
-  * Seattle = Seattle
-  * San Diego = SanDiego
-  * etc
-* US states = State abbreviation in caps + state
-  * Washington = WAstate
-  * etc
+* City-level
+  * City names
+    * Seattle = Seattle
+    * San Diego = SanDiego
+    * [...]
+* State-level
+  * US states = State abbreviation in caps + "state"
+    * Washington = WAstate
+    * [...]
+* National-level
+  * Abbreviation in caps
+    * US
+    * [...]
 ##### Topic subsets
 * Abbreviations with initial capitals, no punctuation in between
   * Example: LocOther
